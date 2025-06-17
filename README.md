@@ -104,3 +104,4 @@ Sinta-se livre para abrir uma **issue** ou **pull request** se quiser sugerir me
 ## 🛡️ Licença
 
 Este projeto está licenciado sob a **MIT License**.
+As pastas "Data" e "Embeddings" contém conteúdos que não podem ser disponibilizados.
