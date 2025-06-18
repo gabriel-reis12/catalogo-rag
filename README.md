@@ -78,7 +78,7 @@ Digite perguntas como:
 - `Quais pistões da GM possuem diâmetro maior que 70?`
 - `Qual o código do pistão para o veículo Gol?`
 - `Motor EA111 flex com 4 pistões, qual o código?`
-`![image](https://github.com/user-attachments/assets/23310b47-ae94-4dcd-b3ef-6c1fa0a0950e)`
+
 ---
 
 ## 📦 Requisitos
